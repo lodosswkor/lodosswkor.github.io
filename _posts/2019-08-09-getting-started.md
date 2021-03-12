@@ -1,10 +1,12 @@
 ---
 title: 테스트 입니당
-author: Cotes Chung
+author: Harry JongSeok Lee
 date: 2019-08-09 20:55:00 +0800
 categories: [Blogging, Tutorial]
 tags: [getting started]
 pin: true
+layout: default
+comments: true
 ---
 
 ## Prerequisites
