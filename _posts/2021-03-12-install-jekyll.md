@@ -26,7 +26,7 @@ Jekyll + Github 블로그 만들기는 아래의 순서대로 진행됩니다.
    [Jekyll 설치문서 (ko)](http://jekyllrb-ko.github.io/docs/installation/)  
    [GIT SCM 사이트](https://git-scm.com/download/win)
 
-### install Ruby+devkit
+### - install Ruby+devkit
 
    설치문서에 따라, [Ruby+Devkit](https://rubyinstaller.org/downloads/) 에서 **Ruby+Devkit 2.7.2-1 (x64)** 을 다운받아 설치합니다. 
    
@@ -47,7 +47,7 @@ Jekyll + Github 블로그 만들기는 아래의 순서대로 진행됩니다.
    오류가 안나면 **Ruby+Devkit**이 정상 설치된 것입니다.   
  
    
-### Jekyll, Bundler 설치 
+### - Jekyll, Bundler 설치 
    
    Jekyll 설치문서에 따라, **Jekyll, Bundler**를 설치합니다.   
    [Jekyll 설치문서 (ko)](http://jekyllrb-ko.github.io/docs/installation/)
@@ -64,14 +64,36 @@ Jekyll + Github 블로그 만들기는 아래의 순서대로 진행됩니다.
    
    자 이제 Jekyll 을 사용할 준비가 되었습니다!!.
     
-## 테마선택/설정
+## 테마선택/설정  
+
+
+
+자기가 원하는 Jekyll 디자인을 선택할 수 있습니다  
+
+[jekyllthemes.org](http://jekyllthemes.org/)
+
+설명은 **Chripy Theme** 로 진행합니다.  
+
+[chrispy theme](http://jekyllthemes.org/themes/jekyll-theme-chirpy/)  
+[chrispy theme/demo](https://chirpy.cotes.info/)   
+
 
 ## Post 작성 
 
 ## github page 만들기
 
+
 ## Etcs. 
+
+favicon 생성 사이트 :(http://jekyllthemes.org/themes/jekyll-theme-chirpy/)   
+
+### - 마크다운 문법 
    
+[https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)   
+[https://gist.github.com/ihoneymon/652be052a0727ad59601](https://gist.github.com/ihoneymon/652be052a0727ad59601)   
+[https://post.naver.com/viewer/postView.nhn?volumeNo=24627214&memberNo=42458017](https://post.naver.com/viewer/postView.nhn?volumeNo=24627214&memberNo=42458017)     
+[https://shields.io/](https://shields.io/)  
+
 
 
 
