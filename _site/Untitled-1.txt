@@ -8,7 +8,7 @@ git client
 
 *) 이미 원격 git repository 가 있는 경우는 무조건 clone 으로 진행한다. 
 
--> gitflow 연습 
+-> gitflow 연습  dsa
 
 
 jekyll 
